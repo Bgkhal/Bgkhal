@@ -1,3 +1,5 @@
+![StockCake-High-Tech Control Room_1717535949](https://github.com/Bgkhal/Bgkhal/assets/112494461/0f7a84d8-33c0-4ac3-abb4-05d1e3436217)
+
 ## Hi there 👋
 Hello! My name is Patrick ONDOA and I am I'm from Universite Saint Jean in Cameroon. I have a deep passion for technology and am particularly interested in the field of data science. 
 
