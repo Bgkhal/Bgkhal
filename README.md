@@ -1,4 +1,11 @@
 ## Hi there 👋
+Hello! My name is Patrick ONDOA and I am I'm from Universite Saint Jean in Cameroon. I have a deep passion for technology and am particularly interested in the field of data science. 
+
+In my free time, I love to explore the world of programming and hone my skills in Python.
+I love to join different community and competition that involve creating something for the society.
+
+Skills:
+Continuous Learning | Collaboration and Communication | Programming Languages and Frameworks.
 
 <!--
 **Bgkhal/Bgkhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
